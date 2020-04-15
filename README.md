@@ -1,4 +1,4 @@
 # LAMP-plate-scanner
 Code to find the test result of a color-metric LAMP assay on a flat-bed scanner.
 
-<img src="/Scanned Document_results.jpg" width="600px" height="622px"/>
+![image of results](https://github.com/linnarsson-lab/colormetric-plate-scanner/blob/master/Scanned_Document_results.png)
